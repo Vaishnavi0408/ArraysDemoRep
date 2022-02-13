@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MainAgruments": {
+      "commandName": "Project",
+      "commandLineArgs": "Hello All Its Me Vaishnavi"
+    }
+  }
+}
